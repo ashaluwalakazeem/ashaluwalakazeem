@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashaluwalakazeem&label=Profile%20views&color=0e75b6&style=flat" alt="ashaluwalakazeem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=ashaluwalakazeem&theme=algolia" alt="ashaluwalakazeem" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashaluwalakazeem" alt="ashaluwalakazeem" /></a> </p>
 
 - 🔭 I’m currently working on [Jaron](https://play.google.com/store/apps/details?id=com.vop.jaron)
 

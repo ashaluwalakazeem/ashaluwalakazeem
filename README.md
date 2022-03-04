@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **Android development, Kotlin, Jetpack Compose, and Java**
 
-- 📫 How to reach me **ashaluwalakazeem@gmail.com**
+- 💬 📫 Check my LinkedIn Profile to reach out to me or know more about my experience <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/ashaluwala-kazeem-1604a01b2?trk=profile-badge">LinkedIn -> Ashaluwala kazeem</a>
+
+- 📫 How to reach me **ashaluwalakazeem@gmail.com** or on 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PDcpTJYievXdBvi3udZOrlJDA7wIvoyQ/view?usp=drivesdk](https://drive.google.com/file/d/1PDcpTJYievXdBvi3udZOrlJDA7wIvoyQ/view?usp=drivesdk)
 

@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashaluwalakazeem" alt="ashaluwalakazeem" /></a> </p>
 
+- 💬 📫 Check my LinkedIn Profile to reach out to me or know more about my experience <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/ashaluwala-kazeem-1604a01b2?trk=profile-badge">LinkedIn -> Ashaluwala kazeem</a>
+
 - 🔭 I’m currently working on [Periculum](https://github.com/AshaluwalaKazeem/Periculum)
 
 - 👯 I’m looking to collaborate on [Accompanist](https://github.com/google/accompanist)
@@ -12,8 +14,6 @@
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=8566252506558911300](https://play.google.com/store/apps/dev?id=8566252506558911300)
 
 - 💬 Ask me about **Android development, Kotlin, Jetpack Compose, and Java**
-
-- 💬 📫 Check my LinkedIn Profile to reach out to me or know more about my experience <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/ashaluwala-kazeem-1604a01b2?trk=profile-badge">LinkedIn -> Ashaluwala kazeem</a>
 
 - 📫 How to reach me **ashaluwalakazeem@gmail.com**
 

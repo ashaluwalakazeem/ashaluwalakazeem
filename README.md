@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on [Accompanist](https://github.com/google/accompanist)
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=8566252506558911300](https://play.google.com/store/apps/dev?id=8566252506558911300)
+- 👨‍💻 Some of my projects are available at [https://play.google.com/store/apps/dev?id=8566252506558911300](https://play.google.com/store/apps/dev?id=8566252506558911300)
 
 - 💬 Ask me about **Android development, Kotlin, Jetpack Compose, and Java**
 
 - 📫 How to reach me **ashaluwalakazeem@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PDcpTJYievXdBvi3udZOrlJDA7wIvoyQ/view?usp=drivesdk](https://drive.google.com/file/d/1PDcpTJYievXdBvi3udZOrlJDA7wIvoyQ/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PDcpTJYievXdBvi3udZOrlJDA7wIvoyQ/view?usp=drivesdk](https://drive.google.com/file/d/14tRCJODz8nZfFQIqJ59_UVtJvhDucb01/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

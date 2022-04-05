@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on [Accompanist](https://github.com/google/accompanist)
 
-- 👨‍💻 Some of my projects are available at [https://play.google.com/store/apps/dev?id=8566252506558911300](https://play.google.com/store/apps/dev?id=85662525065589113000)
 
 - 💬 Ask me about **Android development, Kotlin, Jetpack Compose, and Java**
 

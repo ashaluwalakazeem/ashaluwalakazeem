@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on [Accompanist](https://github.com/google/accompanist)
 
 
-- 💬 Ask me about **Android development, Kotlin, Jetpack Compose, and Java**
+- 💬 Ask me about **Android development, Kotlin, Jetpack Compose, Java and PHP(Laravel)**
 
 - 📫 How to reach me **ashaluwalakazeem@gmail.com**
 

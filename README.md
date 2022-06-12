@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **ashaluwalakazeem@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PDcpTJYievXdBvi3udZOrlJDA7wIvoyQ/view?usp=drivesdk](https://drive.google.com/file/d/1sYvwEgxpSKcMva9__z2k8BIV-2_E2QDp/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashaluwala-kazeem-1604a01b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashaluwala-kazeem-1604a01b2/" height="30" width="40" /></a>

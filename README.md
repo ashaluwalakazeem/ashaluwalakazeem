@@ -7,7 +7,7 @@
 
 - 💬 📫 Check my LinkedIn Profile to reach out to me or know more about my experience <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/ashaluwala-kazeem-1604a01b2?trk=profile-badge">LinkedIn -> Ashaluwala kazeem</a>
 
-- 🔭 I’m currently working on [MenaCred](https://menacompany.ng/)
+<!--- - 🔭 I’m currently working on [MenaCred](https://menacompany.ng/) -->
 
 - 👯 I’m looking to collaborate on [Accompanist](https://github.com/google/accompanist)
 
